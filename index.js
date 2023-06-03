@@ -12,15 +12,16 @@ app.get("/", (req, res) => {
 });
 
 app.get("/chefs", (req, res) => {
+  console.log(chefs);
   res.send(chefs);
 });
 
-app.get("/chefs/:id", (req, res) => {
-  const id = req.params.id;
-  console.log(id);
-  const selectedChefs = chefs.find((n) => n.id === id);
-  res.send(selectedChefs);
-});
+// app.get("/chefs/:id", (req, res) => {
+//   const id = req.params.id;
+//   console.log(id);
+//   const selectedChefs = chefs.find((n) => n.id === id);
+//   res.send(selectedChefs);
+// });
 
 app.listen(port, () => {
   console.log(`Dragon API on port: ${port}`);
