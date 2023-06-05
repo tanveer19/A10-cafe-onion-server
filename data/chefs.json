@@ -1,18 +1,56 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
-    "name": "A",
-    "years of experience": 10,
-    "numbers of recipes": 10,
-    "likes": 15
+    "name": "John Smith",
+    "exp": 10,
+    "recipes": 50,
+    "likes": 1000,
+    "bio": "John Smith is a passionate chef with 10 years of experience. He specializes in a wide range of cuisines and loves experimenting with unique flavors. Check out his delicious recipes!"
   },
   {
-    "id": 2,
+    "id": "2",
     "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
-    "name": "B ",
-    "years of experience": 10,
-    "numbers of recipes": 10,
-    "likes": 15
+    "name": "Emily Johnson",
+    "exp": 5,
+    "recipes": 30,
+    "likes": 500,
+    "bio": "Emily Johnson is a talented chef who has honed her skills over 5 years in the culinary industry. Her recipes are known for their creativity and visual appeal. Explore her amazing creations!"
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "name": "Michael Davis",
+    "exp": 8,
+    "recipes": 40,
+    "likes": 800,
+    "bio": "Michael Davis is a seasoned chef with 8 years of experience. He has a deep understanding of traditional cooking techniques and loves sharing his expertise. Discover his delightful recipes!"
+  },
+  {
+    "id": "4",
+    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "name": "Sarah Thompson",
+    "exp": 12,
+    "recipes": 70,
+    "likes": 1500,
+    "bio": "Sarah Thompson is an accomplished chef with 12 years of experience. She is known for her mastery of diverse cuisines and her ability to create unique flavor combinations. Indulge in her mouthwatering recipes!"
+  },
+  {
+    "id": "5",
+    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "name": "David Wilson",
+    "exp": 3,
+    "recipes": 20,
+    "likes": 300,
+    "bio": "David Wilson is an up-and-coming chef with a passion for creating simple yet delicious dishes. Despite his relatively short experience of 3 years, he has already gained a loyal following. Try out his tasty recipes!"
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "name": "Jennifer Lee",
+    "exp": 7,
+    "recipes": 35,
+    "likes": 700,
+    "bio": "Jennifer Lee is a talented chef who has been delighting taste buds for 7 years. Her recipes showcase her innovative approach and attention to detail. Embark on a culinary journey with her recipes!"
   }
 ]
