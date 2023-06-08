@@ -12,19 +12,25 @@
         "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
+      },
+      {
+        "id": "3",
+        "recipe_name": "Spicy Chickpea Curry",
+        "ingredients": "2 cans chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   },
   {
     "id": "2",
-    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "picture": "https://i.ibb.co/0MBSd68/avatar-2.png",
     "name": "Emily Johnson",
     "exp": 5,
     "recipes": 3,
@@ -35,19 +41,19 @@
         "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
         "id": "3",
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "recipe_name": "Mango Salsa",
+        "ingredients": "mangoes, pepper, onion",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   },
@@ -61,25 +67,28 @@
     "bio": "Michael Davis is a seasoned chef with 8 years of experience. He has a deep understanding of traditional cooking techniques and loves sharing his expertise. Discover his delightful recipes!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "id": "3",
+        "recipe_name": "Spicy Chickpea Curry",
+        "ingredients": "2 cans chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   },
   {
     "id": "4",
-    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "picture": "https://i.ibb.co/0MBSd68/avatar-2.png",
     "name": "Sarah Thompson",
     "exp": 12,
     "recipes": 70,
@@ -87,19 +96,22 @@
     "bio": "Sarah Thompson is an accomplished chef with 12 years of experience. She is known for her mastery of diverse cuisines and her ability to create unique flavor combinations. Indulge in her mouthwatering recipes!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "id": "3",
+        "recipe_name": "Mango Salsa",
+        "ingredients": "mangoes, pepper, onion",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   },
@@ -113,25 +125,28 @@
     "bio": "David Wilson is an up-and-coming chef with a passion for creating simple yet delicious dishes. Despite his relatively short experience of 3 years, he has already gained a loyal following. Try out his tasty recipes!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "id": "3",
+        "recipe_name": "Spicy Chickpea Curry",
+        "ingredients": "2 cans chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   },
   {
     "id": "6",
-    "picture": "https://i.ibb.co/CMwd7JM/avatar.png",
+    "picture": "https://i.ibb.co/0MBSd68/avatar-2.png",
     "name": "Jennifer Lee",
     "exp": 7,
     "recipes": 35,
@@ -139,19 +154,22 @@
     "bio": "Jennifer Lee is a talented chef who has been delighting taste buds for 7 years. Her recipes showcase her innovative approach and attention to detail. Embark on a culinary journey with her recipes!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat."
       },
       {
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "instructions": "Heat oil in a pan over medium heat."
+        "id": "3",
+        "recipe_name": "Mango Salsa",
+        "ingredients": "mangoes, pepper, onion",
+        "method": "Heat oil in a pan over medium heat."
       }
     ]
   }
