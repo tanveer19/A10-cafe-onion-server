@@ -9,7 +9,14 @@
     "bio": "John Smith is a passionate chef with 10 years of experience. He specializes in a wide range of cuisines and loves experimenting with unique flavors. Check out his delicious recipes!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
+        "ingredients": "4 cloves of garlic, minced",
+        "instructions": "Heat oil in a pan over medium heat."
+      },
+      {
+        "id": "2",
+        "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
         "instructions": "Heat oil in a pan over medium heat."
       }
@@ -25,16 +32,19 @@
     "bio": "Emily Johnson is a talented chef who has honed her skills over 5 years in the culinary industry. Her recipes are known for their creativity and visual appeal. Explore her amazing creations!",
     "recipe_details": [
       {
+        "id": "1",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
         "instructions": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
         "instructions": "Heat oil in a pan over medium heat."
       },
       {
+        "id": "3",
         "recipe_name": "Beef Bhuna",
         "ingredients": "4 cloves of garlic, minced",
         "instructions": "Heat oil in a pan over medium heat."
