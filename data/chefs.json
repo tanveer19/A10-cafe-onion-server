@@ -11,20 +11,23 @@
       {
         "id": "1",
         "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "beef, onion, salt, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "chicken,salt, pepper, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Spicy Chickpea Curry",
-        "ingredients": "2 cans chickpeas, onion, tomatoes",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "onion,salt, chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   },
@@ -39,21 +42,24 @@
     "recipe_details": [
       {
         "id": "1",
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "recipe_name": "Hilsa Bhuna",
+        "ingredients": "salt, hilsa, onion, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Mango Salsa",
         "ingredients": "mangoes, pepper, onion",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   },
@@ -69,20 +75,23 @@
       {
         "id": "1",
         "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "beef, onion, salt, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "chicken,salt, pepper, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Spicy Chickpea Curry",
-        "ingredients": "2 cans chickpeas, onion, tomatoes",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "onion,salt, chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   },
@@ -97,21 +106,24 @@
     "recipe_details": [
       {
         "id": "1",
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "recipe_name": "Hilsa Bhuna",
+        "ingredients": "salt, hilsa, onion, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Mango Salsa",
         "ingredients": "mangoes, pepper, onion",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   },
@@ -127,20 +139,23 @@
       {
         "id": "1",
         "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "beef, onion, salt, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "chicken,salt, pepper, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Spicy Chickpea Curry",
-        "ingredients": "2 cans chickpeas, onion, tomatoes",
-        "method": "Heat oil in a pan over medium heat."
+        "ingredients": "onion,salt, chickpeas, onion, tomatoes",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   },
@@ -155,21 +170,24 @@
     "recipe_details": [
       {
         "id": "1",
-        "recipe_name": "Beef Bhuna",
-        "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "recipe_name": "Hilsa Bhuna",
+        "ingredients": "salt, hilsa, onion, garlic, minced",
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "2",
         "recipe_name": "chicken Bhuna",
         "ingredients": "4 cloves of garlic, minced",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       },
       {
         "id": "3",
         "recipe_name": "Mango Salsa",
         "ingredients": "mangoes, pepper, onion",
-        "method": "Heat oil in a pan over medium heat."
+        "method": "Heat oil in a pan over medium heat.",
+        "rating": "5"
       }
     ]
   }
